@@ -48,14 +48,14 @@ A simple card matching memory game.
 
 This project was built with a lean stack:
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML);
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS);
-- [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript);
-- [git](https://git-scm.com/docs/gittutorial);
+:sparkles:[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+:sparkles:[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+:sparkles:[JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+:sparkles:[Git](https://git-scm.com/docs/gittutorial)
 
 ## :white_check_mark: Requirements
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+:checkered_flag:Before starting :checkered_flag: Please be sure you have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
 ## :checkered_flag: Starting
 
@@ -72,7 +72,7 @@ $ yarn
 # Run the project
 $ yarn start
 
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize on port <http://localhost:3000>
 ```
 
 ## :memo: License
